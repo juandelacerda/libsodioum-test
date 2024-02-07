@@ -1,0 +1,4 @@
+Commands
+
+gcc ./random_numbers.c -o random_numbers.out -lsodium
+./random_numbers.out
